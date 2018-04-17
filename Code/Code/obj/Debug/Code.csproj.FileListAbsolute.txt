@@ -1,0 +1,6 @@
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\bin\Debug\Code.exe.config
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\bin\Debug\Code.exe
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\bin\Debug\Code.pdb
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\obj\Debug\Code.csprojResolveAssemblyReference.cache
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\obj\Debug\Code.exe
+c:\users\nishant\documents\visual studio 2013\Projects\Code\Code\obj\Debug\Code.pdb
